@@ -23,7 +23,7 @@ Template Material Desing está licenciado bajo la licencia MIT.(http://opensourc
 
 Codigo Fuente:
 
-- Template Material Desing: https://github.com/MetalSyntax/Template-Material-Desing
+- Template Material Desing: https://github.com/MetalSyntax/Template-Materialize
 
 Donaciones:
 
